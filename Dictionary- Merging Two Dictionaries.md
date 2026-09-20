@@ -11,8 +11,18 @@ To write a Python program that merges **two dictionaries** and combines their ke
 
 ## 🧾 Program
 
-Add code here
+```
+dict1={'Ten': 10,'Twenty': 20,'Thirty': 30} 
+dict2={'Thirty': 30,'Fourty': 40,'Fifty': 50} def 
+merge (dict1,dict2): 
+res={**dict1 , **dict2} return 
+res 
+dict3=merge(dict1,dict2) 
+print(dict3)
+```
 
 ## Output
+<img width="835" height="177" alt="Screenshot 2026-09-20 211409" src="https://github.com/user-attachments/assets/f5e28f60-4c68-4f57-8a2c-6f22ba7c19bc" />
 
 ## Result
+thus,the program has been executed successfully.
